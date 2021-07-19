@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="untitled1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/untitled1_jar</output-path>
+    <root id="root">
+      <element id="archive" name="untitled1.jar">
+        <element id="module-output" name="untitled1" />
+        <element id="dir-copy" path="$USER_HOME$/Downloads/htmlunit-2.47.1" />
+      </element>
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>

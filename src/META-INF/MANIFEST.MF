@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Class-Path: dec-0.1.2.jar xalan-2.7.2.jar htmlunit-2.47.1.jar httpcore
+ -4.4.13.jar httpmime-4.5.13.jar xml-apis-1.4.01.jar commons-io-2.8.0.
+ jar commons-text-1.9.jar salvation2-3.0.0.jar serializer-2.7.2.jar co
+ mmons-net-3.7.2.jar httpclient-4.5.13.jar xercesImpl-2.12.0.jar commo
+ ns-codec-1.11.jar commons-lang3-3.11.jar commons-logging-1.2.jar neko
+ -htmlunit-2.47.1.jar htmlunit-core-js-2.47.0.jar htmlunit-cssparser-1
+ .7.0.jar jetty-io-9.4.36.v20210114.jar jetty-http-9.4.36.v20210114.ja
+ r jetty-util-9.4.36.v20210114.jar jetty-client-9.4.36.v20210114.jar w
+ ebsocket-api-9.4.36.v20210114.jar websocket-client-9.4.36.v20210114.j
+ ar websocket-common-9.4.36.v20210114.jar
+Main-Class: scrapes
+
